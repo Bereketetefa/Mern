@@ -1,0 +1,9 @@
+1)  https://pokeapi.co/api/v2/pokemon/pikachu
+
+2)https://pokeapi.co/api/v2/pokemon/charmander
+
+3)https://pokeapi.co/api/v2/pokemon/bulbasaur
+
+4)https://pokeapi.co/api/v2/pokemon/mewtwo
+
+5)https://pokeapi.co/api/v2/pokemon/jigglypuff
